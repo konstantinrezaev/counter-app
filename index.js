@@ -3,9 +3,6 @@ const addOnePoolBtn = document.getElementById("addOnePoolBtn");
 const addTwoPoolBtn = document.getElementById("addTwoPoolBtn");
 const resetBtn = document.getElementById("resetBtn");
 
-console.log(addOnePoolBtn.dataset);
-console.log(addTwoPoolBtn.dataset);
-
 const COUNTER_INITIAL_VALUE = 0;
 
 let counter = COUNTER_INITIAL_VALUE;
